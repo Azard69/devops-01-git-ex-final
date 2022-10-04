@@ -42,5 +42,4 @@ yarn start
 
 Contributors names and contact info
 
-- Dls
--Michaël Van aerschot
+- Michaël Van aerschot
